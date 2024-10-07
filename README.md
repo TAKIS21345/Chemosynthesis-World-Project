@@ -6,4 +6,7 @@ We have used HTML, Javascript, and CSS to create this demo code. We also used th
 
 This is the link to a slideshow that explains more on this topic:
   https://www.canva.com/design/DAGS0EXpJMc/v_sZLcN6maNCUlQm3OxWfw/edit?utm_content=DAGS0EXpJMc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+This is a link to a deomonstration video that just shows what the end result of this project should look like:
+https://drive.google.com/file/d/1DhGQOn9QhpHPawULaiMvltlR3hAWrBDa/view?usp=drive_link
   
